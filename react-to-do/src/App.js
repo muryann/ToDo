@@ -50,7 +50,7 @@ function App() {
       isCompleted: false
     },
     {
-      text: "Make grovery list",
+      text: "Make grocery list",
       isCompleted: false
     },
     { text: "Get car washed",
